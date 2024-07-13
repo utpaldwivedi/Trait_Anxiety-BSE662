@@ -5,7 +5,7 @@ To download required python packages ,go to command prompt and type to download:
 
 
 Download the game folder or clone it by:
--  git clone https://github.com/Sujallalawat/BSE-662-game
+-  git clone https://github.com/utpaldwivedi/Trait_Anxiety-BSE662.git
 -  on gitbash terminal
   
 To run the python game just follow the commands:
